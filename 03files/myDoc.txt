@@ -1,0 +1,6 @@
+This is myDoc.txt
+
+Name: John Doe
+Gender: Male
+State: California
+
